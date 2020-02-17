@@ -3,3 +3,4 @@ Bahan -  bahan cuhm-bucket terdiri dari :
 2. Tepung terigu
 3. Saus
 4. Kecap
+5. Daun bawang
